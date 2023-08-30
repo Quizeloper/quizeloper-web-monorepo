@@ -1,0 +1,12 @@
+build
+coverage
+dist/*
+node_modules/*
+.next/*
+.turbo/*
+.vscode/*
+.husky/*
+package.json
+package-lock.json
+.gitignore
+README.md
